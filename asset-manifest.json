@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/home-work-5.3/static/css/main.f52243e9.css",
+    "main.js": "/home-work-5.3/static/js/main.7a43f98b.js",
+    "static/media/kairatalfa.png": "/home-work-5.3/static/media/kairatalfa.2af303bbcffed8df232c.png",
+    "index.html": "/home-work-5.3/index.html",
+    "main.f52243e9.css.map": "/home-work-5.3/static/css/main.f52243e9.css.map",
+    "main.7a43f98b.js.map": "/home-work-5.3/static/js/main.7a43f98b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f52243e9.css",
+    "static/js/main.7a43f98b.js"
+  ]
+}
